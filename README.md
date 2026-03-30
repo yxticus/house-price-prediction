@@ -28,3 +28,10 @@ This project uses the California Housing dataset to analyze the factors that inf
 - Compare Linear Regression with other models like Random Forest
 - Perform feature engineering
 - Improve prediction accuracy through model tuning
+
+## Sample Output
+Example model performance:
+- Mean Squared Error: ~0.5 (varies slightly)
+- R² Score: ~0.6–0.7
+
+(This may vary slightly due to train/test split)
